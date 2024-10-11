@@ -1,5 +1,5 @@
 # python_challenge
-I got/Referenced the followwing lines of code from Xpert Learning Assistant/GitHub
+I got/Referenced the following lines of code from Xpert Learning Assistant/GitHub
 
 changes = []
     for i in range(1, len(total_net)):
