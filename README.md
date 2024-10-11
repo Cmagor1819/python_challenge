@@ -1,5 +1,6 @@
 # python_challenge
 I got/Referenced the followwing lines of code from Xpert Learning Assistant/GitHub
+
 changes = []
     for i in range(1, len(total_net)):
         change = total_net[i] - total_net[i - 1]
